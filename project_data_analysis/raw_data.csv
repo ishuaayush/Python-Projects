@@ -1,0 +1,41 @@
+Employee ID,Full Name,Age,Department,Salary ,Join Date,Gender,City,Performance Score,Years Experience,Education Level,Email,Monthly Bonus,Status
+E001,John Tan,35,IT,8500,15-Jan-2020,Male,Singapore,4.5,10,Bachelor's,john.tan@company.com,850,Active
+E002,sarah lim,,HR,4200.00,2021/03/22,Female,Singapore,3.8,5,Diploma,sarah.lim@company.com,420,active
+E003,Ravi Kumar,28,Data Science,7800,12-Apr-2019,Male,Jurong East,4.9,6,Master's,ravi.kumar@company.com,,Active
+E004,Mary Wong,45,Finance,9200,01/07/2018,F,Tampines,4.1,20,Bachelor's,mary.wong@company.com,920,Active
+E005,Ahmad Bin Ali,33,IT,7500 ,22-Sep-2022,Male,Woodlands,N/A,8,Diploma,ahmad@company.com,750,Active
+E006,,41,Data Science,12000,2020-11-05,Male,Orchard,5.0,15,PhD,unknown@company.com,1200,Active
+E007,Linda Chen,29,HR,4500,30-Feb-2021,Female,Clementi,3.5,4,Diploma,linda.chen@company.com,450,Inactive
+E008,Kevin Ng,52,Finance,11000,08/15/2017,Male,Bedok,4.3,25,Master's,kevin.ng@company.com,1100,ACTIVE
+E009,Priya Nair,31,Data Science,8900,2019-06-14,Female,Queenstown,4.7,7,Master's,priya.nair@company.com,890,Active
+E010,james ho,26,IT,5500,11-Mar-2023,Male,Ang Mo Kio,3.2,2,Bachelor's,james.ho@company.com,550,Active
+E011,Siti Rahimah,38,Marketing,6200,25-Dec-2020,Female,Bishan,4.0,12,Diploma,siti.r@company.com,620,Active
+E012,David Lim,44,IT,9800,2016/05/30,Male,Toa Payoh,4.6,18,Bachelor's,david.lim@company.com,980,Active
+E013,Jessica Tan,27,Marketing,5100,,Female,Punggol,3.9,3,Bachelor's,jessica.tan@company.com,510,active
+E014,Muthu Krishnan,36,Data Science,8200,01-Aug-2021,Male,Serangoon,4.8,11,Master's,muthu.k@company.com,820,Active
+E015,Rachel Goh,23,HR,3800,2024-01-10,Female,Yishun,2.9,1,Diploma,rachel.goh@company.com,380,Active
+E016,Bryan Ong,39,Finance,10500,12/31/2015,Male,Novena,4.4,16,Bachelor's,bryan.ong@company.com,,Active
+E017,Kavitha Subramaniam,34,Marketing,6700,03-Mar-2022,Female,Hougang,4.2,9,Master's,kavitha.s@company.com,670,Active
+E018,Tan Wei Liang,48,IT,13500,2014-08-20,Male,Buona Vista,4.8,22,PhD,tan.wl@company.com,1350,Active
+E019,Nurul Ain,25,HR,3900,15-Jul-2023,Female,Pasir Ris,3.1,2,Diploma,nurul.ain@company.com,390,Active
+E020,Alex Chua,31,Data Science,-7500,2022/09/01,Male,Dhoby Ghaut,4.5,6,Master's,alex.chua@company.com,750,Active
+E021,Mei Ling,55,Finance,15000,01-Jan-2010,Female,Raffles Place,4.9,30,Master's,mei.ling@company.com,1500,Active
+E022,Raj Patel,29,IT,6800,2021-04-17,Male,Little India,3.7,4,Bachelor's,raj.patel@company.com,680,active
+E023,Fiona Lim,42,Marketing,7800,07/09/2016,Female,Marina Bay,4.3,17,Bachelor's,fiona.lim@company.com,780,Active
+E024,Eugene Koh,37,Data Science,9100,22-Feb-2020,Male,Jurong West,4.6,13,Master's,eugene.koh@company.com,910,Inactive
+E025,Aisha Binte Malik,30,Finance,7200,2022-12-05,Female,Geylang,3.8,6,Diploma,aisha.m@company.com,720,Active
+E026,Steven Tan,46,IT,12200,14-Jun-2013,Male,Tanjong Pagar,4.7,21,PhD,steven.tan@company.com,1220,Active
+E027,Cheryl Wong,28,Marketing,5400,2023-03-28,Female,Kovan,3.6,3,Bachelor's,cheryl.wong@company.com,540,Active
+E028,Mohan Das,33,Data Science,8600,11-Nov-2019,Male,Redhill,4.7,8,Master's,mohan.d@company.com,860,ACTIVE
+E029,Grace Yeo,50,Finance,13800,2011/04/04,Female,Shenton Way,4.5,26,Master's,grace.yeo@company.com,1380,Active
+E030,Nicholas Lim,22,IT,4200,01-Sep-2024,Male,Sengkang,2.5,1,Diploma,nicholas.lim@company.com,420,Active
+E031,Ting Xiao Ling,36,HR,5200,2020-07-14,Female,Telok Blangah,3.9,10,Diploma,ting.xl@company.com,520,Active
+E032,Ramesh Iyer,41,Data Science,10200,18-Aug-2018,Male,Boon Lay,4.8,16,PhD,ramesh.i@company.com,1020,Active
+E033,Joanne Tan,27,Marketing,5000,2023-06-01,Female,Tampines,3.4,2,Bachelor's,joanne.tan@company.com,,active
+E034,Darren Ng,38,Finance,9700,10-Oct-2019,Male,Bukit Timah,4.2,13,Bachelor's,darren.ng@company.com,970,Active
+E035,Swati Sharma,32,Data Science,8400,2021-02-28,Female,Bukit Panjang,4.6,7,Master's,swati.s@company.com,840,Active
+E036,Marcus Chua,29,IT,6100,2022/08/15,Male,Caldecott,3.3,3,Diploma,marcus.chua@company.com,610,Active
+E037,Anita Tan,43,HR,6000,09-Mar-2015,Female,MacPherson,4.0,18,Diploma,anita.tan@company.com,600,Active
+E038,Lim Boon Kiat,200,Finance,8800,2018-12-01,Male,Paya Lebar,4.1,14,Bachelor's,lim.bk@company.com,880,Active
+E039,Fatimah Zahra,26,Marketing,4800,01-Apr-2023,Female,Ubi,3.2,2,Diploma,fatimah.z@company.com,480,Active
+E040,Kenneth Teo,53,IT,14500,2010/06/20,Male,One-North,4.9,28,PhD,kenneth.teo@company.com,1450,Active
