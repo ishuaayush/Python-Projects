@@ -1,15 +1,10 @@
-# 🐍 Python Trainer Portfolio — NTUC LearningHub
-
-> **Candidate:** [Your Name]
-> **Role Applied:** Python Trainer — IT Academy
-> **Organisation:** NTUC LearningHub
-> **Domain:** Python Programming, Data Analytics & AI
+# 🐍 Python Projects Portfolio
 
 ---
 
 ## 📌 About This Portfolio
 
-This repository demonstrates the breadth and depth of my Python expertise across **four key competency areas** aligned with NTUC LearningHub's Python curriculum:
+This repository demonstrates the breadth and depth of my Python expertise across **four key competency areas** aligned with modern Python curriculum as per industry skill demands:
 
 | # | Area | Skills Showcased |
 |---|------|-----------------|
@@ -23,7 +18,7 @@ This repository demonstrates the breadth and depth of my Python expertise across
 ## 🗂️ Repository Structure
 
 ```
-ntuc-python-portfolio/
+python-portfolio/
 │
 ├── 📁 project_data_analysis/          ← MAIN DEMO PROJECT
 │   ├── raw_data.csv                   ← Messy raw employee dataset (input)
@@ -189,11 +184,11 @@ jupyter notebook notebooks/01_data_analysis_walkthrough.ipynb
 
 ---
 
-## 🎓 Alignment with NTUC LearningHub Curriculum
+## 🎓 Alignment with Curriculum
 
-This portfolio directly supports the following NTUC LearningHub Python courses:
+This portfolio directly supports the following Python courses:
 
-| NTUC Course | Skills Covered in This Portfolio |
+| Course | Skills Covered in This Portfolio |
 |-------------|----------------------------------|
 | **Fundamentals of Python Programming** | OOP, file I/O, control flow, functions |
 | **Analyse Business Data Using Python** | pandas, matplotlib, dashboards |
@@ -214,11 +209,3 @@ I am a Python practitioner with hands-on experience across data analytics, machi
 
 ---
 
-## 📄 License
-
-MIT License — free to use for educational purposes.
-
----
-
-*Portfolio prepared for NTUC LearningHub Python Trainer Interview*
-*Last updated: April 2026*
