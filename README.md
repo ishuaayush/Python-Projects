@@ -1,6 +1,4 @@
-```markdown
 ![Python Portfolio CI](https://github.com/ishuaayush/Python-Projects/actions/workflows/ci.yml/badge.svg)
-```
 
 # 🐍 Python Projects Portfolio
 
